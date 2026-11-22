@@ -1,0 +1,11 @@
+{
+  "name": "TNK Cartoon Studio",
+  "short_name": "TNK Studio",
+  "description": "Hindi story to 2D cartoon movie studio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#100b24",
+  "theme_color": "#100b24",
+  "orientation": "portrait-primary",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
